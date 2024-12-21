@@ -1,0 +1,11 @@
+<!-- logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80" fill="none">
+  <!-- Background with rounded corners -->
+  <rect width="200" height="80" rx="20" fill="#4CAF50" />
+  
+  <!-- Text "Digital" -->
+  <text x="50%" y="50%" font-size="36" text-anchor="middle" fill="white" font-family="Arial" dy=".3em">Digital</text>
+  
+  <!-- Optional: Add a slight shadow for text -->
+  <text x="50%" y="50%" font-size="36" text-anchor="middle" fill="rgba(0, 0, 0, 0.3)" font-family="Arial" dy=".3em">Digital</text>
+</svg>
